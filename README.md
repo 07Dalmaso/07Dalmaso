@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Studying Back End Development.
-- 🚀 Improving my knowledge of <strong>JavaScript, Node.js, PHP, React</strong>
+- 🚀 Improving my knowledge of <strong>JavaScript, Node.js, PHP</strong>
 - 📫 My email: lucassdalmaso25@gmail.com
 
 <br>
