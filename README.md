@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,php,nodejs,git,github"></img>
-</div>,php
+</div>
 <br>
 
 ## 📈 Statistics
