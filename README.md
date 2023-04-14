@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Studying Back End Development.
-- 🚀 Improving my knowledge of <strong>JavaScript, Node.js, React</strong>
+- 🚀 Improving my knowledge of <strong>JavaScript, Node.js, PHP, React</strong>
 - 📫 My email: lucassdalmaso25@gmail.com
 
 <br>
@@ -34,7 +34,7 @@
 
 <div align="center">
   <p>
-<a href="https://www.linkedin.com/in/luisfdeveloper/"> 
+<a href="https://www.linkedin.com/in/lucas-dalmaso-170006232/"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:lucassdalmaso25@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
