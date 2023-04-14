@@ -10,7 +10,7 @@
  
 - 📚 Studying Back End Development.
 - 🚀 Improving my knowledge of <strong>JavaScript, Node.js, React</strong>
-- 📫 My email: oluis10@gmail.com
+- 📫 My email: lucassdalmaso25@gmail.com
 
 <br>
 
@@ -24,9 +24,9 @@
 
 ## 📈 Statistics
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=iluiszin&show_icons=true&theme=merko"></img>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=07Dalmaso&show_icons=true&theme=merko"></img>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluiszin&layout=compact&theme=merko"></img>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Dalmaso&layout=compact&theme=merko"></img>
 
 
 
