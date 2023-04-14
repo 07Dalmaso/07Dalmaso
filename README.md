@@ -41,13 +41,6 @@
  <a href="https://www.instagram.com/lucas_dalmaso/"> 
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  <a/><br><br>
-	 <a href="https://api.whatsapp.com/send?phone=61998819974" target="_blank"><i class="fab fa-whatsapp"></i></a>
-		<a href="https://https://www.facebook.com/lucas.dalmaso" target="_blank"><i class="fab fa-facebook"></i></a>
-		<a href="mailto:lucassdalmaso25@gmail.com"><i class="fas fa-envelope"></i></a>
 </div>
-	
-		
-		<a href="https://api.whatsapp.com/send?phone=61998819974" target="_blank"><i class="fab fa-whatsapp"></i></a>
-		<a href="https://https://www.facebook.com/lucas.dalmaso" target="_blank"><i class="fab fa-facebook"></i></a>
-		<a href="mailto:lucassdalmaso25@gmail.com"><i class="fas fa-envelope"></i></a>
+
 
