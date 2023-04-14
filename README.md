@@ -1,41 +1,45 @@
-### Hi there 👋
+<h1 align='center'> Welcome to my profile. </h1>
 
-<div id="contact-bar">
-		<a href="https://api.whatsapp.com/send?phone=61998819974" target="_blank"><i class="fab fa-whatsapp"></i></a>
-		<a href="https://https://www.facebook.com/lucas.dalmaso" target="_blank"><i class="fab fa-facebook"></i></a>
-		<a href="mailto:lucassdalmaso25@gmail.com"><i class="fas fa-envelope"></i></a>
+### 👋 About me:
+
+<p>
+  <em>
+    My name is Lucas Dalmaso, <strong>I'm a Back-end developer</strong>
+  </em>
+</p>
+ 
+- 📚 Studying Back End Development.
+- 🚀 Improving my knowledge of <strong>JavaScript, Node.js, React</strong>
+- 📫 My email: oluis10@gmail.com
+
+<br>
+
+## ⚡ Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,git,github"></img>
 </div>
-	
-	<style> 
-	#contact-bar {
-			position: fixed;
-			bottom: 0;
-			left: 0;
-			width: 100%;
-			height: 60px;
-			background-color: #333;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-			z-index: 9999;
-		}
-		#contact-bar a {
-			color: #fff;
-			margin: 0 10px;
-			font-size: 24px;
-			text-decoration: none;
-			transition: all 0.2s ease;
-		}
-		#contact-bar a:hover {
-			color: #ccc;
-		}
-		.fa-whatsapp {
-			color: #25D366;
-		}
-		.fa-facebook {
-			color: #1877f2;
-		}
-		.fa-envelope {
-			color: #fff;
-		}
-</style>
+  
+<br>
+
+## 📈 Statistics
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=iluiszin&show_icons=true&theme=merko"></img>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluiszin&layout=compact&theme=merko"></img>
+
+
+
+##  Connect with me
+
+<div align="center">
+  <p>
+<a href="https://www.linkedin.com/in/luisfdeveloper/"> 
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:lucassdalmaso25@gmail.com"> 
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a/>
+ <a href="https://www.instagram.com/lucas_dalmaso/"> 
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ <a/><br><br>
+</div>
